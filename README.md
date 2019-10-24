@@ -4,3 +4,5 @@
 - PCA, t-SNE are used to visualize the data in 2-D. 
 - AUPRC, AUROC, Accuracy metrices are used to evaluate the models 
 - Report will be uploaded soon...
+
+Dataset can be found here: https://www.kaggle.com/mlg-ulb/creditcardfraud
